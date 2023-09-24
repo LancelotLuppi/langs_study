@@ -1,0 +1,26 @@
+TYPES IN ELIXIR
+
+
+Type            Useful for                  Examples
+
+string          Text                        "Hello, World"
+
+integer         Integer numbers             12, 52, 79, 103
+
+float           Real numbers                5.8, 3.9, 234.68
+
+boolean         Logical operations          true, false
+
+atom            Identifiers                 :ok, :error, :exit
+
+tuple           Building collections        {:ok, "Hello"}, {3, 2, 1}
+                of known sizes
+
+list            Building collections        [1, 2], ["x"], ["y"]
+                of unknown sizes
+
+map             Looking up a value          %{id: 123, name: Luppi}, %{12=> "User"}
+                in a dictionary by key
+                
+nil             Representing absence        nil
+                of value

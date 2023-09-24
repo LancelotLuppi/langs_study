@@ -1,0 +1,32 @@
+OPERATORS IN ELIXIR
+
+
+Operators   Useful for              Examples
+
++           Adding numbers          12 + 1, 40 + 2
+
+-           Substractiong numbers   10 - 20, 9.4 - 2
+
+/           Dividing numbers        34.89 / 3, 12 / 2
+
+*           Multiplying numbers     5 * 7, 23.9 * 104
+
+==          Checking when two       1 == 1.0, 1 == 2
+            values are equal
+
+!=          Checking when two       1 != 1.0, 1 != 2
+            values are not
+            equal
+
+<           Checking when the       1 < 2, 3 < 1
+            left value is less
+            than the right one
+
+>           Checking when the       1 > 2, 3 > 1
+            left value is greater
+            than the right one
+
+++          Concatenating two lists [1, 2] ++ [3, 4]
+
+<>          Concatenating two       "Hello, " <> "World"
+            strings or binaries
